@@ -14,7 +14,7 @@ short_url: 'garamkim83.github.io/test-site-2/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: ./
 
 # Permalinks
 permalink: /:title
@@ -46,7 +46,7 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: jekyllt
-repo: jasper
+repo: test-site-2
 branch: master
 relative_source: ../
 destination: ../jasper-pages/
