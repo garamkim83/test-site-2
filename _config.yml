@@ -53,7 +53,7 @@ branch: master
 relative_source: ../
 destination: ../jasper-pages/
 production_url:  https://garamkim83.github.io/test-site-2/
-source_url:  https://garamkim83.github.io/test-site-2/
+source_url:  https://github.com/garamkim83/test-site-2
 blog_logo: /assets/images/kroad_white.png
 logo: /assets/images/kroad_white.png
 
