@@ -2,7 +2,8 @@
 layout: page
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+cover: 'assets/images/cover2.jpg'
+logo: 'assets/images/kroad_white.png'
 current: about
 ---
 
