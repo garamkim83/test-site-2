@@ -17,7 +17,7 @@ short_url: 'garamkim83.github.io/test-site-2/'
 # disqus: garamkim83                # 댓글 기능, disqus 계정 만들어야 함, 유료
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /test-site-2/
+baseurl: ./
 
 # Permalinks
 permalink: /:title
