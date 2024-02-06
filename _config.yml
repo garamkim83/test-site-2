@@ -16,7 +16,7 @@ short_url: 'garamkim83.github.io/test-site-2/'
 # disqus: garamkim83                # 댓글 기능, disqus 계정 만들어야 함, 유료
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /test-site-2/
+baseurl: /test-site-2
 
 # Permalinks
 permalink: /:title
@@ -50,7 +50,7 @@ lsi: false
 username: garamkim83
 repo: test-site-2
 branch: master
-relative_source: ../
+relative_source: ../test-site-2/
 destination: ../jasper-pages/
 production_url:  https://garamkim83.github.io/test-site-2/
 source_url:  https://github.com/garamkim83/test-site-2
@@ -58,11 +58,8 @@ blog_logo: /assets/images/kroad_white.png
 logo: /assets/images/kroad_white.png
 
 # Social media links
-# Github
 github_url: https://github.com/garamkim83/test-site-2/
-# Instagram
 instagram_url: https://www.instagram.com/kroad_2020?igsh=d3R4cWNlYXI3bXk3/
-# Youtube
 youtube_url: https://teams.microsoft.com/l/message/48:notes/1707182145525?context=%7B%22contextType%22%3A%22chat%22%7D/
 
 exclude:
